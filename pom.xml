@@ -23,7 +23,7 @@
     </dependency> 
   </dependencies>  
   <build> 
-    <finalName>app</finalName>  
+    <finalName>payaramicro-hello-azure</finalName>  
     <plugins>
       <plugin>
         <groupId>com.microsoft.azure</groupId>
